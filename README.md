@@ -42,7 +42,7 @@ A passionate **Frontend Developer** and Computer Science student focused on buil
 ---
 
 ### 🌐 Connect With Me
-
+[![Gmail] (ailtobar44@gmail.com)
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-tobar-dev)
