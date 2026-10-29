@@ -1,48 +1,57 @@
-# Hi there, I'm Ali Tobar 👋
+# Ali Tobar
 
-A passionate **Frontend Developer** and Computer Science student focused on building modern, responsive, and user-friendly web applications. Currently expanding my stack towards the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
+### Frontend Developer
 
----
+> `react · responsive interfaces · practical user experiences`
 
-### 🚀 About Me
+I’m a third-year Computer Science student focused on building clean, responsive, and user-friendly web applications with JavaScript and React.
 
-- 🎓 **Education:** Computer Science Student.
-- 💻 **Focus:** Modern Frontend Development & Problem Solving.
-- ⚛️ **Currently Learning:** Deepening my knowledge in **React.js** & Full-Stack architecture.
-- 🎯 **Goals:** Building scalable web applications and writing clean, maintainable code.
-- 💬 **Ask me about:** HTML5, CSS3, JavaScript, Bootstrap, Responsive Web Design.
+## What I build
 
----
+I enjoy turning interface ideas into practical frontend experiences—especially projects involving responsive UI, client-side state management, API integration, and thoughtful support for Arabic and English users.
 
-### 🛠️ Tech Stack & Tools
+## Demonstrated frontend skills
 
-#### Languages & Core:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Core:** HTML, CSS, JavaScript, React, Responsive Web Design
 
-#### Frameworks & Libraries:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**React development:** React Router, Context API, `useReducer`, Redux Toolkit, Material UI
 
-#### Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Data and application features:** Fetch API, Axios, Firebase Authentication, local storage
 
----
+**UI and workflow:** Tailwind CSS, Bootstrap, Framer Motion, Vite, Git, GitHub
 
-### 📊 GitHub Activity & Stats
+## Selected work
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Tobar&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Tobar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+### [ShopEase — React E-Commerce App](https://github.com/Ali-Tobar/ShopEase---React-E-Commerce-Web-App_Simpel)
 
----
+A single-page e-commerce application with product filtering, cart persistence, authentication, protected checkout routes, and purposeful interface motion.
 
-### 🌐 Connect With Me
-[![Gmail] (ailtobar44@gmail.com)
+**Highlights:** React Router · Context API · Fetch API · Firebase Authentication · Framer Motion
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-tobar-dev)
+### [TaskMate — Arabic Todo Application](https://github.com/Ali-Tobar/taskmate-react-todo)
+
+An RTL-friendly task manager supporting task creation, editing, filtering, completion, and deletion. Application state is organized with `useReducer` and Context API, with browser persistence.
+
+**Highlights:** React · Material UI · Context API · `useReducer` · local storage · RTL interface
+
+### [Weather App](https://github.com/Ali-Tobar/weather-app)
+
+A bilingual weather interface that retrieves live data, normalizes it for display, supports Arabic and English layouts, and remembers user preferences.
+
+**Highlights:** React · Material UI · Axios · OpenWeatherMap API · local storage · RTL/LTR support
+
+[![Weather App interface preview](https://raw.githubusercontent.com/Ali-Tobar/weather-app/main/design/design.jpg)](https://github.com/Ali-Tobar/weather-app)
+
+## Computer Science learning
+
+Alongside frontend project work, I study and practice Computer Science foundations including object-oriented programming, C, Python, data structures, software engineering, system analysis, and problem solving.
+
+These subjects reflect academic study and personal practice; this profile distinguishes them from technologies demonstrated in the public projects above.
+
+## Continued practice
+
+I document JavaScript exercises and problem-solving practice in [JavaScript Problem Solving](https://github.com/Ali-Tobar/javascript-problem-solving).
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ali-tobar-dev) · [GitHub](https://github.com/Ali-Tobar)
